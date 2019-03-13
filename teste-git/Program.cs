@@ -11,6 +11,7 @@ namespace teste_git
         static void Main(string[] args)
         {
             Console.WriteLine("Olá mundo");
+            Console.WriteLine("Hoje estamos pratindo git");
         }
     }
 }
