@@ -13,6 +13,7 @@ namespace teste_git
             Console.WriteLine("Olá mundo");
             Console.WriteLine("Hoje estamos pratindo git");
             Console.WriteLine("Será que chover?");
+            Console.WriteLine("Finalmente está dando certo");
         }
     }
 }
